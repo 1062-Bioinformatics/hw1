@@ -3,7 +3,7 @@
 ## Description
 
 * Writing R script to generate PAM250 from PAM1.
-* Creating your own R script, hw1_<your student ID>.R , ie. hw1_105753026.R, to read pam1.txt and output pam250.txt.
+* Creating your own R script, hw1_yourStudentID.R , ie. hw1_105753026.R, to read pam1.txt and output pam250.txt.
 * PAM250 in the slide has been scaled such that its column sum = 100.
 
 ## File
@@ -16,7 +16,7 @@
 Executing your code with the following command.
 
 ```R
-Rscript hw1_studentID.R
+Rscript hw1_studentID.R path2pam1.txt
 ```
 
 ## Evaluation
