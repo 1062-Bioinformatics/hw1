@@ -20,17 +20,18 @@ Rscript hw1_studentID.R input_path_pam1.txt output_path_pam250.txt
 ```
 
 ## Evaluation
+* works for input & output right PAM250: 90
 
 ### Bonus
 
-* Preprocess PAM1: +1
-* Post-process PAM250: +1
-* Correct output format: +1
-* Output without quotation marks "": +1
-* Round to the nearest whole number: +1
+* Preprocess PAM1: +2
+* Post-process PAM250: +2
+* Correct output format: +2
+* Output without quotation marks "": +2
+* Round to the nearest whole number: +2
 
 ### Penalty
 
 * Use the fixed path inside your code: -1
 * Calculate with the wrong number of loops: -1
-* High code similarity to others
+* High code similarity to others: YOUR SCORE = 0
