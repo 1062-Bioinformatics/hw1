@@ -16,7 +16,7 @@
 Executing your code with the following command.
 
 ```R
-Rscript hw1_studentID.R path2pam1.txt
+Rscript hw1_studentID.R input_path_pam1.txt output_path_pam250.txt
 ```
 
 ## Evaluation
